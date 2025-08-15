@@ -172,3 +172,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+filedpends/
+docs/
+outputs/
+
+.jpeg
+.jpg
+.png
+.mp4
+.onnx
+.wav
